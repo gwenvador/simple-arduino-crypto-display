@@ -202,9 +202,7 @@ void setup() {
   // and take the tickerId from the URL (use bitcoin or ethereum as an example)
   
   addNewHolding("bitcoin");
-  //addNewHolding("dogecoin");
   addNewHolding("ethereum");
-//  addNewHolding("loom-network");
   addNewHolding("maker");
 
 
