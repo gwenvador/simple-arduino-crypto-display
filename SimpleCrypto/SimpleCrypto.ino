@@ -8,7 +8,7 @@
     Written by Brian Lough
     https://www.youtube.com/channel/UCezJOfu7OtqGzd5xrP3q6WA
 
-    Updated by gwenvador 2019 for better display and infographics PROGMEM
+    Updated by gwenvador for better display and infographics PROGMEM
  *******************************************************************/
 
 // ----------------------------
