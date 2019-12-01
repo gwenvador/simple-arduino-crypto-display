@@ -1,6 +1,6 @@
 # Simple Arduino Crypto Display
 
-### NOTE: Coinmarket cap have changed their API and this project currently does not work with it
+### Updated the code to have better display and some nice infographics
 
 ![alt text](https://i.imgur.com/QcoTabI.png "Display")
 
