@@ -2,7 +2,18 @@
 
 ### Updated the code to have better display and some nice infographics
 
-![alt text](https://i.imgur.com/QcoTabI.png "Display")
+![alt text](https://i.imgur.com/QcoTabI.png "Display Original")
+
+## Display Updated
+
+Start screen with crypto infographics
+![alt text](https://i.imgur.com/qBVIASm.jpg "Start Screen")
+
+BTC Screen
+![alt text](https://i.imgur.com/tQ8WzbZ.jpg "Altcoin Screen")
+
+Altcoin Screen
+![alt text](https://i.imgur.com/FlrcJBt.jpg "BTC Screen")
 
 [![Alt text](https://img.youtube.com/vi/2IRsOFaWfho/0.jpg)](https://www.youtube.com/watch?v=2IRsOFaWfho)
 
